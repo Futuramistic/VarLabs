@@ -1,8 +1,8 @@
 # VarLabs
 
 As GithHub cannot store large files and stopped cooperating mid project, here you can find the ZIP of: 
-* exercises 1-6: <a href="">Link</a>
-* exercise 7: <a href="">Link</a>
+* exercises 1-6: <a href="https://drive.google.com/drive/folders/1lt5Xv7QdjEpAdOxGfysoCn7mmhtgoW93?usp=sharing">Link</a>
+* exercise 7: <a href="https://drive.google.com/drive/folders/1dZeXNUAvP11S_suSMFb1g6xOCdqBEBKF?usp=sharing">Link</a>
 
 A set of weekly exercises and assignments to familiarize with the Unreal Engine for CS3247 class at NUS
 Content:
