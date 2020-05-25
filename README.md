@@ -1,4 +1,9 @@
 # VarLabs
+
+As GithHub cannot store large files, here you can find the ZIP of: 
+* exercises 1-6:
+* exercise 7
+
 A set of weekly exercises and assignments to familiarize with the Unreal Engine for CS3247 class at NUS
 Content:
 1. Introduction to Unreal
@@ -59,9 +64,11 @@ Levels:
 * Left (HW_Left)
   * Inspire the user to look left/right or up/down repeatedly.
   
-## Blueprint Communication
+## Blueprint Communication 
 Blueprint communication paradigms
-  
+
+Link to built level: <a href="https://drive.google.com/drive/folders/1hjqCbw3l_kT4a0p6vmYejOT6ms9zY1-n?usp=sharing">Link</a>
+
 Content:
 * Blueprint Communication
   * Creating Custom Events.
@@ -74,6 +81,8 @@ Levels:
 
 ## Locomotion and Perspective
 Character movement. Avoiding motion sickness in virtual reality.
+
+Link to built levels: <a href="https://drive.google.com/drive/folders/1hSY6sMxvO4tZsYtzGH6PMhrwk0RGzNek?usp=sharing"> Link </a>
 
 Types of games concerned:
 * First Person
@@ -94,6 +103,8 @@ Levels:
 
 ## Physics
 Physics simulations. 
+
+Link to built levels: <a href="https://drive.google.com/drive/folders/1J5DQf9-e2ehc1bJpOJKkrCrt6OllKhVf?usp=sharing">Link</a>
 
 Content:
 * Moving objects
@@ -123,6 +134,8 @@ Content created: Lava material
 
 ## AI
 Writing classes which used for making blueprints for AI. 
+
+Link to built levels: <a href="https://drive.google.com/open?id=1x-q2dchdYKG1Tj9VuTAhVqENQaBkVE9o">Link</a>
 
 Content:
 * Setting up a Nav Mesh Bounds Volume.
