@@ -41,6 +41,10 @@ Levels:
     This level inspires the viewer to move their head.
 * Dark forest (HW_MyVR)
 
+|Scale|Rotation|Translation|Forest|
+|------|------|------|------|
+|![](https://github.com/Futuramistic/VarLabs/blob/master/Promo/Images/scale.PNG)|![](https://github.com/Futuramistic/VarLabs/blob/master/Promo/Images/rotation.PNG)|![](https://github.com/Futuramistic/VarLabs/blob/master/Promo/Images/translation.PNG)|![](https://github.com/Futuramistic/VarLabs/blob/master/Promo/Images/forest.PNG)|
+
 Overall grade:
 
 ## Blueprinting
@@ -65,6 +69,12 @@ Levels:
   * Inspire the user to look left/right or up/down repeatedly.
   
 ## Blueprint Communication 
+
+<i align="right">Photo: Link to youtube level showcase</i>
+<a href="https://youtu.be/4Z7t-nAWpAM" align ="right">
+ <img src="http://i3.ytimg.com/vi/4Z7t-nAWpAM/hqdefault.jpg" align="right">
+</a>
+
 Blueprint communication paradigms
 
 Link to built level: <a href="https://drive.google.com/drive/folders/1hjqCbw3l_kT4a0p6vmYejOT6ms9zY1-n?usp=sharing">Link</a>
@@ -77,9 +87,13 @@ Content:
 * Creating custom curves with Timeline
 * Animating actor properties with Sequencer
 
-Levels:
-
 ## Locomotion and Perspective
+
+<i align="right">Photo: Link to youtube level showcase</i>
+<a href="https://youtu.be/xsC9kT13r_4" align ="right">
+ <img src="http://i3.ytimg.com/vi/xsC9kT13r_4/hqdefault.jpg" align="right">
+</a>
+
 Character movement. Avoiding motion sickness in virtual reality.
 
 Link to built levels: <a href="https://drive.google.com/drive/folders/1hSY6sMxvO4tZsYtzGH6PMhrwk0RGzNek?usp=sharing"> Link </a>
@@ -99,9 +113,14 @@ Content:
 * Change levels
 * Fade the camera in and out
 
-Levels:
 
 ## Physics
+
+<i align="right">Photo: Link to youtube level showcase</i>
+<a href="https://youtu.be/aF1eCuQIXIs" align ="right">
+ <img src="http://i3.ytimg.com/vi/aF1eCuQIXIs/hqdefault.jpg" align="right">
+</a>
+
 Physics simulations. 
 
 Link to built levels: <a href="https://drive.google.com/drive/folders/1J5DQf9-e2ehc1bJpOJKkrCrt6OllKhVf?usp=sharing">Link</a>
@@ -116,6 +135,9 @@ Content:
 Levels:
 
 ## Materials
+
+<img src="https://github.com/Futuramistic/VarLabs/blob/master/Promo/GIFs/Lava.gif" align="right">
+
 Basics of materials
 
 Content:
@@ -127,12 +149,13 @@ Content:
 * Material Instances
 * Dynamic materials
 
-Levels:
-None
-
-Content created: Lava material
-
 ## AI
+
+<i align="right">Photo: Link to youtube level showcase</i>
+<a href="https://youtu.be/5GnqzFIDwWI" align ="right">
+ <img src="http://i3.ytimg.com/vi/5GnqzFIDwWI/hqdefault.jpg" align="right">
+</a>
+
 Writing classes which used for making blueprints for AI. 
 
 Link to built levels: <a href="https://drive.google.com/open?id=1x-q2dchdYKG1Tj9VuTAhVqENQaBkVE9o">Link</a>
@@ -142,6 +165,5 @@ Content:
 * Creating and coding out C++ Classes
 * Using Blackboards and Behavior Tree.
 
-Levels:
 
 
