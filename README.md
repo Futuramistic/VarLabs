@@ -61,12 +61,17 @@ Content:
 * Using public variables and the construction script to alter blueprints from the Level Editor.
 
 Levels:
+
 * Lean (HW_Lean)
   * Inspire the viewer to lean in for better perspective.
 * Dip (HW_Dip)
   * Inspire the viewer to dip, dodge, duck, dive, and/or dodge.
 * Left (HW_Left)
   * Inspire the user to look left/right or up/down repeatedly.
+  
+  |Lean|Dip|Left|
+  |------|------|------|
+  |![](https://github.com/Futuramistic/VarLabs/blob/master/Promo/Images/Lean.PNG)|![](https://github.com/Futuramistic/VarLabs/blob/master/Promo/Images/Dip.PNG)|![](https://github.com/Futuramistic/VarLabs/blob/master/Promo/Images/Left.PNG)|
   
 ## Blueprint Communication 
 
